@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">IndoreInfoLine</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="contacts_list">Police 100\n
+        Fire control Room - 101\n
+        Ambulance - 102\n
+        P B X - 2529880, 2528781\n\n
+        Hospitals: \n
+        M.Y.H. : 2528301, 2527301\n
+        Bombay Hospital : 4001716\n
+        Bhandari Hospital : 2552833, 4003333\n
+        Choithram Hospital : 4206757, 4029369\n
+        CHL Apollo Hospital : 4006004\n
+        Curewell Hospital : 4068280, 4046881\n
+        Geeta Bhavan Hospital : 2499009, 2491575\n
+        Gokuldas Hospital : 2519221, 2519214\n
+        Lifeline Hospital : 2575611\n
+        Suyash Hospital : 4064914\n
+        M Y Hospital and Blood Bank - 2527947, 2637301, 2528301\n
+        Singhvi Blood Bank - 2513663, 2527081\n\n
+        Fire Sub Station: -\n
+        Laxmi Bai Nagar 2416655,2416677, 2416688\n
+        Gandhi Hall 2431226 \n
+        Moti Tabela2477777, 2762444\n
+        G.N.T. Market 2480963 \n
+        Pithampur 256639\n
+        Indore State GPO - 701432\n
+        Speed Post GPO - 700430</string>
+    <string name="action_settings">Settings</string>
+</resources>
